@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//alejandro0710.github.io/curse-react/static/css/main.fb67af90.chunk.css",
+    "main.js": "/https//alejandro0710.github.io/curse-react/static/js/main.03c2a949.chunk.js",
+    "main.js.map": "/https//alejandro0710.github.io/curse-react/static/js/main.03c2a949.chunk.js.map",
+    "runtime-main.js": "/https//alejandro0710.github.io/curse-react/static/js/runtime-main.06ad854c.js",
+    "runtime-main.js.map": "/https//alejandro0710.github.io/curse-react/static/js/runtime-main.06ad854c.js.map",
+    "static/js/2.eabb3355.chunk.js": "/https//alejandro0710.github.io/curse-react/static/js/2.eabb3355.chunk.js",
+    "static/js/2.eabb3355.chunk.js.map": "/https//alejandro0710.github.io/curse-react/static/js/2.eabb3355.chunk.js.map",
+    "index.html": "/https//alejandro0710.github.io/curse-react/index.html",
+    "static/css/main.fb67af90.chunk.css.map": "/https//alejandro0710.github.io/curse-react/static/css/main.fb67af90.chunk.css.map",
+    "static/js/2.eabb3355.chunk.js.LICENSE.txt": "/https//alejandro0710.github.io/curse-react/static/js/2.eabb3355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06ad854c.js",
+    "static/js/2.eabb3355.chunk.js",
+    "static/css/main.fb67af90.chunk.css",
+    "static/js/main.03c2a949.chunk.js"
+  ]
+}
